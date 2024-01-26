@@ -1,5 +1,5 @@
 <?php
-
+// database config
 return [
     'database' => [
         'host' => 'localhost',
