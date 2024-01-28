@@ -1,5 +1,5 @@
 <?php
-
+// database config
 return [
     'database' => [
         'host' => 'localhost',
@@ -7,6 +7,4 @@ return [
         'dbname' => 'myapp',
         'charset' => 'utf8mb4'
     ],
-
-    //
 ];
